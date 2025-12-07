@@ -1,86 +1,93 @@
-<!-- Dark Theme Banner -->
-<h1 align="center">🖤 Welcome to My GitHub — I'm Mahmoud Mohsen (HabashyDev)</h1>
+<h1 align="center">🖤 Hi, I'm Mahmoud Mohsen — (HabashyDev)</h1>
 
 <p align="center">
-  <strong>.NET Backend Developer | RESTful API Specialist | Clean Code Enthusiast</strong>
+  <strong>.NET Backend Developer | API Builder | Clean Architecture Advocate</strong>
 </p>
 
 ---
 
-<!-- Dark Mode Style -->
-<div style="background-color:#0d1117; padding: 20px; border-radius: 12px;">
+## 🚀 Tech Stack (Badges Only)
 
-## 🧑‍💻 **About Me**
+### 🧑‍💻 Languages  
+<p align="left">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sqlite&logoColor=white"/>
+</p>
 
-- Motivated and detail-oriented **.NET Developer**  
-- Experienced in building **scalable RESTful APIs**, **secure authentication**, and real backend systems  
-- Passionate about **clean architecture**, **best practices**, and **maintainable code**  
-- Completed **military service** and ready for challenging roles  
-- Always learning, always building
+### ⚙️ Backend & Frameworks  
+<p align="left">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
+</p>
 
----
+### 🗄️ Databases  
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
 
-## 🚀 **Projects**
+### 🔒 Authentication & APIs  
+<p align="left">
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_API-025E8C?style=for-the-badge&logo=api&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
+</p>
 
-### 🔷 **Taskly API – Task Management System**
-**Tech:** ASP.NET Core · EF Core · SQL Server · JWT · Azure  
-- Role-based access with secure JWT authentication  
-- Unit of Work pattern for clean and efficient data handling  
-- CRUD operations with filtering  
-- Admin control over users & tasks  
-- Swagger documentation  
-🔗 GitHub: **https://github.com/HabashyDev/TasklyAPI**
-
----
-
-### 🔷 **Online Exam System with AI Essay Evaluation**
-**Tech:** Node.js · Express.js · MongoDB · NLP Model  
-- Full online exam system with multi-format questions  
-- REST APIs for exam creation, evaluation, user flows  
-- Integrated AI/NLP model for automated essay grading  
-- MongoDB schema designed for fast and scalable storage  
-- Graded “Excellent”  
-🔗 GitHub (Projects APIs): **https://github.com/mahmoudmohsen97/ProjectAPIs.git**
-
----
-
-## 🛠 **Tech Stack**
-
-### 💻 **Programming**
-`C#` · `JavaScript` · `SQL`
-
-### 🗄 **Databases**
-`SQL Server` · `MongoDB`
-
-### ⚙️ **Frameworks & Tools**
-`ASP.NET Core` · `Entity Framework Core` · `ASP.NET MVC`  
-`Node.js` · `Express`  
-`Swagger UI` · `Postman`  
-`Unit of Work Pattern`  
-
-### ☁️ **Cloud & DevOps**
-`Azure (Basic)` · `Git` · `GitHub` · `Docker`
-
----
-
-## 🌐 **Connect With Me**
-
-<p align="center">
-  🔗 <a href="mailto:habashydev@gmail.com">Email Me</a> •
-  <a href="https://github.com/HabashyDev">GitHub</a> •
-  <a href="https://linkedin.com/in/habashydev">LinkedIn</a>
+### ☁️ Cloud & DevOps  
+<p align="left">
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 ---
 
-## 🖤 **GitHub Stats (Dark Mode)**
+## 📂 Projects (With Badges)
+
+### 🔹 **Taskly API**
+<p>
+  <img src="https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=flat-square&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=azuredevops&logoColor=white"/>
+</p>
+
+🔗 **Repo:** https://github.com/HabashyDev/TasklyAPI
+
+---
+
+### 🔹 **Online Exam System (AI Essay Evaluation)**  
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NLP_Model-AI-6A5ACD?style=flat-square"/>
+</p>
+
+🔗 **Repo:** https://github.com/mahmoudmohsen97/ProjectAPIs.git
+
+---
+
+## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HabashyDev&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HabashyDev&layout=compact&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HabashyDev&theme=tokyonight&show_icons=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HabashyDev&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
 ---
 
-<p align="center">✨ Thanks for visiting my profile — feel free to explore my projects! ✨</p>
+## 🌐 Connect With Me  
+<p>
+  <a href="mailto:habashydev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/HabashyDev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/habashydev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
 
-</div>
+---
+
+<p align="center">🖤 Thanks for visiting my profile — badges make everything better 😎</p>
